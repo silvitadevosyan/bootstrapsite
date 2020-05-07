@@ -1,0 +1,23 @@
+.textstyle1{
+    color:#FF69B4; 
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.textstyle3{
+    font-size:28px;
+    color:#FF69B4;
+}
+.marg{
+    margin-top:10px;
+}
+.logo{
+    width: 110px;
+    height: 40px;
+}
+.bgpink{
+    background-color: #FF69B4;
+    color: black;
+}
+.ctstyle{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-style: bold;
+}
