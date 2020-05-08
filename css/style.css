@@ -1,0 +1,48 @@
+.textstyle1{
+    color:#FF69B4; 
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.textstyle2{
+    color:white; 
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.textstyle3{
+    font-size:28px;
+    color:#FF69B4;
+}
+.textstyle4{
+    color:black; 
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.textstyle5{
+    color:#FF69B4; 
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size:28px;
+}
+.marg{
+    margin-top:10px;
+}
+.logo{
+    width: 110px;
+    height: 40px;
+}
+.bgpink{
+    background-color: #FF69B4;
+    color: black;
+}
+.bgpink2{
+    background-color: black;
+    color: #FF69B4;
+}
+.ctstyle{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-style: bold;
+}
+.bgb{
+    background-color: #FF69B4;
+    border: black 2px solid;
+}
+.ddd{
+    width: 600px;
+    height: 400px;
+}
