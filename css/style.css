@@ -42,7 +42,14 @@
     background-color: #FF69B4;
     border: black 2px solid;
 }
-.ddd{
-    width: 600px;
-    height: 400px;
+.cardst{
+    border:  #FF69B4 3px double ;
+}
+.pics{
+    width: 70px;
+    height: 50px;
+}
+.picsz{
+    width: 400px;
+    height: 604px;
 }
